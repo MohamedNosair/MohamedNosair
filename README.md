@@ -9,8 +9,8 @@
 
 - 📍 Location: Tanta, El-Gharbia, Egypt  
 - 🎓 BSc in Computer Science – Cairo University (2018 – 2022)  
-- 💼 Currently working remotely with **IT Stellar – Saudi Arabia**  
-- 👨‍💻 Previous experience: **SoftScope – Egypt**
+- 👨‍💻 Previous experience as Flutter Developer **IT Stellar – Saudi Arabia**  
+- 👨‍💻 Previous experience as Flutter Developer **SoftScope – Egypt**
 
 ---
 
